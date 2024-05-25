@@ -1,5 +1,7 @@
 public class BestTimeToBuyStockes {
     public int maxProfit(int[] prices) {
+        
+        //Declare Variables
         int pointer = 0;
         int answer = 0;
 
