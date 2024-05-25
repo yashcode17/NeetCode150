@@ -1,0 +1,1 @@
+Centralized C++ folder for organizing and storing LeetCode solutions to enhance coding skills efficiently.
