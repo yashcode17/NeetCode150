@@ -4,7 +4,7 @@ Welcome, to your personalized Questions Practice Repository. This repository is 
 
 ## About This Repository
 
-This repository is dedicated to practice journey, focusing on NeetCode 150 questions/Leetcode questions. These questions are carefully chosen to provide you with challenging yet rewarding practice sessions to excel in DSA.
+This repository is dedicated to practice journey, focusing on NeetCode questions/Leetcode questions. These questions are carefully chosen to provide you with challenging yet rewarding practice sessions to excel in DSA.
 
 ## Why Choose Our Repository
 
