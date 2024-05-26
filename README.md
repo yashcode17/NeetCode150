@@ -1,4 +1,4 @@
-# Questions Practice Repository
+# Interview Coding 
 
 Welcome to your personalized Questions Practice Repository! Enhance your Data Structures and Algorithms (DSA) skills with curated questions from LeetCode and NeetCode.
 
@@ -22,6 +22,6 @@ Dedicated to your practice journey, focusing on NeetCode and LeetCode questions.
 
 Embark on your DSA mastery journey with the questions and solutions in this personalized repository. Embrace challenges, learn new methodologies, and elevate your coding skills with our exclusive practice resource.
 
-[Link to C++ Questions](https://github.com/pahuldeep/LeetCode/blob/833d73310165c02f1ae57d62544634a9ca762720/C%2B%2B%20Solutions/C%2B%2B%20Ouestions.md)
+[Guide C++ Questions](https://github.com/pahuldeep/LeetCode/blob/833d73310165c02f1ae57d62544634a9ca762720/C%2B%2B%20Solutions/C%2B%2B%20Ouestions.md)
 
 Happy Coding! 🚀
