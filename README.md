@@ -26,7 +26,7 @@ This repository is dedicated to practice journey, focusing on NeetCode questions
 
 Embark on your DSA mastery journey by immersing yourselves in the questions and solutions offered in this personalized repository. Embrace the challenges, learn new methodologies, and elevate your coding skills with us by exclusive practice resource.
 
-[Link to C++ Questions](https://github.com/pahuldeep/LeetCode/blob/92c850974c54d1e03c63d0114b61088744254191/C%2B%2B%20Solutions/C%2B%2B%20Ouestions.md)
+[Link to C++ Questions](https://github.com/pahuldeep/LeetCode/blob/833d73310165c02f1ae57d62544634a9ca762720/C%2B%2B%20Solutions/C%2B%2B%20Ouestions.md)
 
 
 
