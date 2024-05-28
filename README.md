@@ -1,29 +1,29 @@
-# Questions Practice Repository
+# Interview Coding 
 
-Welcome, to your personalized Questions Practice Repository. This repository is tailored to enhance your Data Structures and Algorithms (DSA) skills through a curated selection of questions from LeetCode and NeetCode platforms.
+Welcome to your personalized Questions Practice Repository! Enhance your Data Structures and Algorithms (DSA) skills with curated questions from LeetCode and NeetCode.
 
 ## About This Repository
 
-This repository is dedicated to practice journey, focusing on NeetCode 150 questions/Leetcode questions. These questions are carefully chosen to provide you with challenging yet rewarding practice sessions to excel in DSA.
+Dedicated to your practice journey, focusing on NeetCode and LeetCode questions. Carefully chosen to provide challenging yet rewarding practice sessions for excelling in DSA.
 
 ## Why Choose Our Repository
 
-- **Personalized Practice:** The questions in this repository are handpicked to suit your skill levels and interests, ensuring a customized learning experience.
-
-- **Comprehensive Solutions:** Explore detailed solutions that cater to your learning needs, helping you understand various problem-solving approaches effectively.
-
-- **Focused Learning:** By practicing questions from LeetCode and NeetCode, you can sharpen your DSA skills in a focused and structured manner.
+- **Personalized Practice:** Handpicked questions tailored to your skill levels and interests for a customized learning experience.
+- **Comprehensive Solutions:** Detailed solutions to cater to your learning needs and understand problem-solving approaches effectively.
+- **Focused Learning:** Sharpen DSA skills in a structured manner by practicing questions from LeetCode and NeetCode.
 
 ## How to Use This Repository
 
-1. **Engage with the Questions:** Dive into the collection of questions specifically selected to challenge yourselves and expand your problem-solving abilities.
-
-2. **Review Solutions:** Study the solutions provided to gain valuable insights into different strategies and techniques for solving each question.
-
-3. **Consistent Practice:** Dedicate regular time to practice these questions to enhance your DSA proficiency and boost your problem-solving capabilities.
+1. **Engage with the Questions:** Dive into the collection of challenging questions to expand your problem-solving abilities.
+2. **Review Solutions:** Gain insights into different strategies and techniques by studying the provided solutions.
+3. **Consistent Practice:** Dedicate regular time to enhance your DSA proficiency and problem-solving capabilities.
 
 ## Get Started
 
-Embark on your DSA mastery journey by immersing yourselves in the questions and solutions offered in this personalized repository. Embrace the challenges, learn new methodologies, and elevate your coding skills with us by exclusive practice resource.
+Embark on your DSA mastery journey with the questions and solutions in this personalized repository. Embrace challenges, learn new methodologies, and elevate your coding skills with our exclusive practice resource.
 
-Happy Coding, Pahuldeep and Yashasvi Gupta! 🚀
+[Guide Java Questions]()
+
+[Guide C++ Questions](https://github.com/pahuldeep/LeetCode/blob/dcd93baca38276d0d4975e6e626dcbf9bbe09ac1/C%2B%2B%20Solutions/~C%2B%2B%20Ouestions.md)
+
+Happy Coding! 🚀
